@@ -42,6 +42,7 @@ Simulate the design to verify the serial shift operation.
 /* write all the steps invloved */
 
 **PROGRAM**
+
 <img width="355" height="275" alt="Screenshot 2025-10-08 190946" src="https://github.com/user-attachments/assets/536be129-d630-4ae6-b252-f39c91fe0d86" />
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
